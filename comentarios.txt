@@ -1,0 +1,32 @@
+“Comentarios de etiquetas html”
+1.	Html: sirve para estructurar y desplegar una pagina web y su contenido.
+2.	Head: proporciona el titulo y la codificación de la página.
+3.	Link: permite agrega url.
+4.	Meta: ayuda a la descripción del contenido de la pagina web
+5.	Title: da título a la página.
+6.	From:n os ayuda a representar la sección del documento.
+7.	Body: indica la parte del cuerpo del contenido de una página html.
+8.	H: para darle marca a un tema en la pagina
+9.	Div: da definición lógica a algo existente del contenido de la página.
+10.	Label: ayuda a darle un estilo con mayor claridad y accesibilidad a la pagina web
+11.	Input: representa ek campo de datos 
+12.	Select: representa un control de menú de opciones.
+13.	Option: representa un item dentro de los select.
+14.	Textarea: crear un cuadro de texto de varias líneas en una página web
+15.	Nav: representa una sección de una página cuyo propósito es proporcionar enlaces de navegación.
+16.	Button: representa un elemento botón que se suele utilizar en formularios 
+17.	A: este viene acompañada de otra etiqueta href las cuales crean enlaces a páginas de internet.
+18.	Span: se aplica para dar estilo al texto o agrupar elementos en línea
+19.	Li: crea listas 
+20.	Script: se utiliza para insertar o hacer referencia a un script ejecutable dentro de un documento
+21.	Marquee: crea un estilo de marquesina que da movimiento
+22.	Href: se utiliza para insertar enlaces externos e internos en una página web. 
+23.	Icon: es una etiqueta que vine acompañada con más elementos y esta crea iconos.
+24.	Table: permiten a los desarrolladores web organizar datos como texto, imágenes y enlaces en filas y columnas
+25.	Thead: delimita el encabezado de la tabla.
+26.	Tr: define una fila de celdas en una tabla.
+27.	Th: define una celda como encabezado de un grupo de celdas en una tabla.
+28.	Tbody: delimita las otras partes del contenido de la tabla (como lo que no se encuentra en el encabezado).
+29.	Ul: crea listas, pero no ordenadas
+30.	DOCTYPE:informa que versión de html usaremos.
+

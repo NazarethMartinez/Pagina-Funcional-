@@ -1,0 +1,35 @@
+/*Selector universal*/
+* {
+    box-sizing:content-box;
+}
+    #nombre {
+        color: violet;
+}
+
+#h1_a{
+     color:black;
+     background-color:white;
+     text-align: center;
+}
+
+
+.patita{
+    border:3px solid;
+    width:fit-content;
+    padding: 0.8rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1rem;
+}
+#GN{
+    cursor:pointer;
+}
+#GN:hover{
+    background-color: lightcoral;
+}
+#GN:active{
+    background-color: rgb(238, 47, 255);
+}
+
+
